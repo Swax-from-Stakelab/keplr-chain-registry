@@ -47,6 +47,12 @@
             "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/chihuahua/factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/woof.png"
         },
         {
+            "coinDenom": "spitz",
+            "coinMinimalDenom": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz",
+            "coinDecimals": 6,
+            "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/chihuahua/factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz.png"
+        },
+        {
             "coinDenom": "TACOS",
             "coinMinimalDenom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/utacos",
             "coinDecimals": 6,
